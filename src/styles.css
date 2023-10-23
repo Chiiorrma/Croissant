@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%);
+
+}
+
+.links a {
+  color: green;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
