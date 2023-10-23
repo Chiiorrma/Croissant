@@ -15,3 +15,7 @@ body {
   display: block;
   margin: 30px auto;
 }
+
+p {
+  font-size: 24px;
+}
